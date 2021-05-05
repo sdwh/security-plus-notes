@@ -1,4 +1,6 @@
-# CompTIA SY0-501 Security+ Study Notes
+# CompTIA SY0-501 Security+ 學習筆記
+
+Repo forked from [krovs/security-plus-notes](https://github.com/krovs/security-plus-notes)
 
 ## Sections
 
